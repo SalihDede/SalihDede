@@ -1,8 +1,33 @@
-# 🛠️ My Tech Stack & Social Media
+# 👋 Hi, I'm Muhammed Salih DEDE
 
-## 💻 Active Technologies I Use
+<div align="center">
 
-### 🐍 Core Programming Languages
+**AI Engineer | Full-Stack Developer | Computer Science Student**
+
+*MEF University • AI Minor • 4th Year | GPA: 3.58/4.0*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SalihDede&color=brightgreen)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+AI Engineer and Full-Stack Developer passionate about **AI/LLM projects, embedded systems, automation systems, and data analysis**. Currently specializing in:
+
+- 🤖 **LLM Fine-tuning & Prompt Engineering** (PyTorch, TensorFlow, Hugging Face, LangChain)
+- ⚙️ **Embedded Systems & Low-Level Programming** (C, Java, Shell Script)
+- 🔄 **Intelligent Automation** (n8n, Playwright, LangChain)
+- 📊 **Data Analysis & ML** (Scikit-learn, NLTK, OpenAI API)
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### 🐍 Core Languages I Use
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -11,7 +36,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤖 AI & Machine Learning Stack
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -25,30 +50,58 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 Development Tools & Platforms
+### 🔧 Tools & Automation
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=microsoft-edge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
 
----
-
-## 🚀 Project Types I Love Working On
-
-| Category | Details |
-|----------|---------|
-| **🤖 AI/LLM Projects** | Large Language Model fine-tuning, NLP, prompt engineering, AI agents |
-| **⚙️ Embedded Systems** | Low-level programming, hardware integration, real-time systems |
-| **🔄 Automation Systems** | Workflow automation, process optimization, intelligent bots |
-| **📊 Data Analysis** | Data processing, visualization, statistical analysis |
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### Social Media & Platforms
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalihDede&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalihDede&theme=onedark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihDede&theme=onedark&hide_border=false&layout=compact&langs_count=8)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SalihDede&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 🚀 Project Types I Love
+
+| Category | Focus Area |
+|----------|-----------|
+| **🤖 AI/LLM Projects** | Fine-tuning, NLP, AI agents, prompt engineering |
+| **⚙️ Embedded Systems** | Low-level programming, hardware integration |
+| **🔄 Automation Systems** | Workflow automation, intelligent bots |
+| **📊 Data Analysis** | Data processing, visualization, statistics |
+
+---
+
+## 💼 Professional Experience
+
+**Part Time AI Engineer** @ Codeventure (2026 - Present)  
+**AI Engineering Intern** @ Microsoft (2025)  
+**AI Engineering Intern** @ Codeventure (2025)  
+**DevOps/Software Engineer Intern** @ Avcılar Kaymakamları (2025)  
+**Embedded Systems Intern** @ Extoget Information Technologies Inc. (2024)  
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+### Social Media & Professional Platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-salih-dede-271b0423a)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammedsalihdede)
@@ -57,24 +110,18 @@
 
 ### Direct Contact
 
-[![Email](https://img.shields.io/badge/Email-dedem%40mef.edu.tr-blue?style=for-the-badge&logo=gmail)](mailto:dedem@mef.edu.tr)
-[![Phone](https://img.shields.io/badge/Phone-%2B90%20535%20884%2081%2082-green?style=for-the-badge&logo=whatsapp)](tel:+905358848182)
+- **Email:** [dedem@mef.edu.tr](mailto:dedem@mef.edu.tr)
+- **Phone:** [+90 535 884 81 82](tel:+905358848182)
+- **Location:** Istanbul, Turkey
 
 </div>
 
 ---
 
-## 📌 Quick Stats
+<div align="center">
 
-**Primary Focus:** AI Engineering & LLM Development  
-**Secondary Focus:** Full-Stack Web Development  
-**Tertiary Focus:** Systems & Embedded Programming  
+**Always Learning • Always Building • Always Growing** 🚀
 
-**Experience:**
-- 🤖 AI/ML: 2+ years
-- 💻 Full-Stack Development: 3+ years
-- ⚙️ Embedded Systems: 1+ year
+*Let's collaborate on innovative AI and software solutions!*
 
----
-
-*Let's build something amazing together!* 🚀
+</div>
