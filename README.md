@@ -1,21 +1,80 @@
-# 💫 About Me:
-👨‍💻 Hey there! I'm a computer engineering student based in Turkey, passionate about delving into the realms of software languages and programming. 🚀<br><br>💻 Currently exploring the wonders of coding and programming in various languages, I'm on a journey to sharpen my skills and make meaningful contributions to the digital landscape. 🌟<br><br>🎓 Striving for excellence in the world of technology, I embrace challenges as opportunities for growth and innovation. Let's connect and code the future together! 🌐
+# 🛠️ My Tech Stack & Social Media
 
+## 💻 Active Technologies I Use
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/muhammed-salih-dede-271b0423a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@muhammedsalihdede1693) 
+### 🐍 Core Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SalihDede&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SalihDede&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihDede&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SalihDede&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+### 🤖 AI & Machine Learning Stack
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Database & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔧 Development Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SalihDede&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Project Types I Love Working On
+
+| Category | Details |
+|----------|---------|
+| **🤖 AI/LLM Projects** | Large Language Model fine-tuning, NLP, prompt engineering, AI agents |
+| **⚙️ Embedded Systems** | Low-level programming, hardware integration, real-time systems |
+| **🔄 Automation Systems** | Workflow automation, process optimization, intelligent bots |
+| **📊 Data Analysis** | Data processing, visualization, statistical analysis |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### Social Media & Platforms
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-salih-dede-271b0423a)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammedsalihdede)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/muhammedsalihdede)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/SalihDede)
+
+### Direct Contact
+
+[![Email](https://img.shields.io/badge/Email-dedem%40mef.edu.tr-blue?style=for-the-badge&logo=gmail)](mailto:dedem@mef.edu.tr)
+[![Phone](https://img.shields.io/badge/Phone-%2B90%20535%20884%2081%2082-green?style=for-the-badge&logo=whatsapp)](tel:+905358848182)
+
+</div>
+
+---
+
+## 📌 Quick Stats
+
+**Primary Focus:** AI Engineering & LLM Development  
+**Secondary Focus:** Full-Stack Web Development  
+**Tertiary Focus:** Systems & Embedded Programming  
+
+**Experience:**
+- 🤖 AI/ML: 2+ years
+- 💻 Full-Stack Development: 3+ years
+- ⚙️ Embedded Systems: 1+ year
+
+---
+
+*Let's build something amazing together!* 🚀
