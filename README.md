@@ -14,6 +14,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammedsalihdede)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@muhammedsalihdede)
 [![Email](https://img.shields.io/badge/dedem@mef.edu.tr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dedem@mef.edu.tr)
+![Profile Views](https://komarev.com/ghpvc/?username=SalihDede&color=1D9E75&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -21,7 +22,28 @@
 
 ## About
 
-Fourth-year Computer Engineering student specialising in LLM fine-tuning, AI agents, and intelligent automation. I build end-to-end AI systems — from transformer architectures to production-ready workflows with LangChain, LangGraph, and n8n. TÜBİTAK embedded systems researcher. Badminton player and runner.
+Fourth-year Computer Engineering student specialising in LLM fine-tuning, AI agents, and intelligent automation. I build end-to-end AI systems — from transformer architectures to production-ready workflows with LangChain, LangGraph, and n8n. TÜBİTAK embedded systems researcher.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=SalihDede&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalihDede&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=SalihDede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalihDede&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=SalihDede&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
 
 ---
 
@@ -100,24 +122,10 @@ Mobile route planning app powered by Google APIs. Features a "Create Random Day"
 
 ---
 
-### 🧩 8-Puzzle Solver `2024`
-A\* algorithm-based solver that finds the shortest path to the goal state with a clean user-friendly interface.
-
-`Java`
-
----
-
 ### 🖥️ Multi-Cycle CPU Design `2023`
 Custom multi-cycle CPU for 8-bit data processing: ALU operations, 8 registers, 2-bit cycle counter, instruction decoding control logic.
 
 `Embedded Systems`
-
----
-
-### 🔗 Shortest Path Finder `2023`
-Upload any city graph from CSV and find shortest routes between cities using BFS and DFS algorithms.
-
-`Java`
 
 ---
 
@@ -170,18 +178,6 @@ Tools           Git · GitHub · Unity · Blender · Jira · Selenium
 | Build Dynamic User Interfaces for Websites | Google | Dec 2023 |
 
 </details>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalihDede&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalihDede&layout=compact&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
