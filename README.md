@@ -13,7 +13,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/SalihHub)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/salihdede)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@salih12dede)
-[![Email](https://img.shields.io/badge/dedem@mef.edu.tr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dedem@mef.edu.tr)
+[![Email](https://img.shields.io/badge/salihddeegmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:salihddeegmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=SalihDede&color=1D9E75&style=flat-square&label=Profile+Views)
 
 </div>
